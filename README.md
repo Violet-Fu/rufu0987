@@ -13,3 +13,10 @@ This is my second commit!!!
 
 *Italic text*
 
+**List**
+
+-Item 1
+-Item 2
+-Item 3
+ -Sub item1
+ -Sub item2
