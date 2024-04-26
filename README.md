@@ -16,7 +16,8 @@ This is my second commit!!!
 **List**
 
 -Item 1
-    -Item 2
-    -Item 3
-    -Sub item1
-    s-Sub item2
+    -Item2
+    -Item3
+        -sub1
+        -sub2
+        -sub3
