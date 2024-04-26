@@ -17,7 +17,16 @@ This is my second commit!!!
 
 -Item 1
     -Item2
-    -Item3
-        -sub1
-        -sub2
-        -sub3
+        -sub item 1
+        -sub item 2
+
+**Images*
+*Remote images**
+![An image of a cat](http://placekitten.com/200/300.jpg)    
+**Local images**
+
+![The Mona Lisa](readmeImages/Mona_Lisa_by_Leonardo_da_Vibci_500*700.jpg)
+
+```
+This is a code block!
+```
